@@ -27,10 +27,10 @@ I'm Nigerian & Spanish currently living in the UK :)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChisomOkafor&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChisomOkafor&icon=4&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChisomOkafor&icon=7&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@favour2001) 
