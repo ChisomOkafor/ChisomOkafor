@@ -1,8 +1,8 @@
-/* [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) */
+<!--  [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)  -->
 <h1 align="centre"> Hola👋, I'm Chisom Okafor</h1>
 <h3 align="centre"> I specialise in Digital Marketing, Business Development & Business Analytics</h3>
 
-![MyGIF](img align="right" alt="Coding" width="400" src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif")
+<img align=right width=250 src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif" />
 
 - 🔭 I’m currently working on **multiple business projects**
 - 🌱 I’m currently learning **Python**
@@ -36,4 +36,3 @@ I'm Nigerian & Spanish currently living in the UK :)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@favour2001) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
