@@ -28,6 +28,11 @@ I'm Nigerian & Spanish currently living in the UK :)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChisomOkafor&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChisomOkafor&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChisomOkafor&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChisomOkafor&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChisomOkafor&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChisomOkafor&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChisomOkafor&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
