@@ -21,6 +21,12 @@ I'm Nigerian & Spanish currently living in the UK :)
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChisomOkafor&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChisomOkafor&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChisomOkafor&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChisomOkafor&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChisomOkafor&theme=midnight-purple&hide_border=false)<br/>
