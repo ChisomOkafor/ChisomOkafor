@@ -2,7 +2,7 @@
 <h1 align="centre"> Hola👋, I'm Chisom Okafor</h1>
 <h3 align="centre"> I specialise in Digital Marketing, Business Development & Business Analytics</h3>
 
-(img align="right" alt="Coding" width="400" src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif")
+![MyGIF](https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif)
 
 - 🔭 I’m currently working on **multiple business projects**
 - 🌱 I’m currently learning **Python**
