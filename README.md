@@ -1,7 +1,7 @@
 <!--  [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)  -->
-<h1 align="centre"> Hola👋, I'm Chisom Okafor </h1>
+<h1 align="center"> Hola👋, I'm Chisom Okafor </h1>
 
-<h3 align="centre"> I specialise in Digital Marketing </h3>
+<h3 align="center"> I specialise in Digital Marketing </h3>
 
 <img align=right width=250 src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif" />
 
