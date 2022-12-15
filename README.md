@@ -31,7 +31,7 @@ I'm Nigerian & Spanish currently living in the UK :)
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)<br/>
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChisomOkafor&icon=7&color=11)](https://visitcount.itsvg.in)
