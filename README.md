@@ -3,7 +3,7 @@
 
 <h3 align="center"> I specialise in Digital Marketing </h3>
 
-<img align=right width=250 height=250 src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif" />
+<img align=right width=200 src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif" />
 
 - 🔭 I’m currently working on **multiple business projects**
 - 🌱 I’m currently learning **Python**
