@@ -4,7 +4,7 @@
 <h3 align="center"> I specialise in Digital Marketing </h3>
 
 <p>
-<img align=right width=250 src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif" />
+<img align=right width=270 src="https://github.com/ChisomOkafor/GifsImagery/blob/main/giphy.gif" />
 </p>
   
 - 🔭 I’m currently working on **multiple business projects**
